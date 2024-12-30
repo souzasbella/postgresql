@@ -9,7 +9,7 @@ Features:
 
 <h3>Database Diagram: </h3>
 
-![diagram](file:///Users/bellasouza/Downloads/customers.jpg)
+![customers](https://github.com/user-attachments/assets/9b456847-dab9-4fff-873f-ae6b351f9591)
 
 Feel free to explore and learn alongside me! 😊
 
